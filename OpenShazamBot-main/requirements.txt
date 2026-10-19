@@ -1,0 +1,11 @@
+aiogram==3.19.0
+SQLAlchemy==2.0.40
+aiosqlite
+ytmusicapi==1.10.2
+yt-dlp
+eyed3==0.9.7
+ffmpeg-python==0.2.0
+httpx[http2]==0.28.1
+python-dotenv==1.1.0
+# Optional (voice/video se gaana pehchanne ke liye, Rust chahiye):
+# shazamio==0.8.0
